@@ -1,0 +1,1 @@
+hero.step = 32
